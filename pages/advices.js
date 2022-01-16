@@ -22,7 +22,7 @@ export default function AdviceMe() {
         Pesan untuk Opa.
       </Heading>
       <Text color={secondaryText} lineHeight="tall">
-        Halaman ini dibuat untuk menampung segala keluh kesah, pendapat, informasi, atau bahkan
+        Halaman ini dibuat untuk menampung segala keluh kessasdsadadasdsah, pendapat, informasi, atau bahkan
         nasihat untuk <b>Opa Kholis Majid</b>.
       </Text>
       <Advices />
