@@ -6,7 +6,7 @@ import Container from '@/components/Container';
 
 const meta = {
   title: 'Pesanmu',
-  description: 'Keluh kesah, pendapat, informasi, atau bahkan nasihat untuk Opa.'
+  description: 'Keluh kesah, pendapat, informasi, atau bahkan nassasasasaihat untuk Opa.'
 };
 
 export default function AdviceMe() {
