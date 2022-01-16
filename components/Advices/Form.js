@@ -50,10 +50,6 @@ export default function AdviceForm() {
 
       {!session ? (
         <Stack justifyContent="start" direction={['column', 'row']} spacing={4}>
-          <Button onClick={() => loginWith3rdParty('github')} fontWeight="normal">
-            <Github mr={2} />
-            Login dengan Github
-          </Button>
           <Button onClick={() => loginWith3rdParty('google')} fontWeight="normal">
             <Google mr={2} />
             Login dengan Google
